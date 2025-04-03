@@ -60,7 +60,7 @@
                                                                                                                                       {
                                                                                                                                           "@odata.type":  "#microsoft.graph.deviceManagementConfigurationStringSettingValue",
                                                                                                                                           "settingValueTemplateReference":  null,
-                                                                                                                                          "value":  "%OrganizationId%"
+                                                                                                                                          "value":  "%tenantid%"
                                                                                                                                       }
                                                                                                                                   ]
                                                                                              }
@@ -385,7 +385,7 @@
                                                                                                  "simpleSettingValue":  {
                                                                                                                             "@odata.type":  "#microsoft.graph.deviceManagementConfigurationStringSettingValue",
                                                                                                                             "settingValueTemplateReference":  null,
-                                                                                                                            "value":  "%OrganizationId%"
+                                                                                                                            "value":  "%tenantid%"
                                                                                                                         }
                                                                                              }
                                                                                          ]
