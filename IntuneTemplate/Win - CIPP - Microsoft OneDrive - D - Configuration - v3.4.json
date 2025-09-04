@@ -9,7 +9,7 @@
     "description":  "",
     "lastModifiedDateTime@odata.type":  "#DateTimeOffset",
     "lastModifiedDateTime":  "2024-12-05T20:12:33.6863493Z",
-    "name":  "Win - NIS - Microsoft OneDrive - D - Configuration - v3.4",
+    "name":  "Win - CIPP - Microsoft OneDrive - D - Configuration - v3.4",
     "platforms@odata.type":  "#microsoft.graph.deviceManagementConfigurationPlatforms",
     "platforms":  "windows10",
     "priorityMetaData":  null,
